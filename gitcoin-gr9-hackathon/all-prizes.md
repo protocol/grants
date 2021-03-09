@@ -17,24 +17,24 @@ Have an idea that isn't listed here or questions? Talk to us:
 
 $12,500 in prizes + 100% matching from PL
 
-For details on all bounties below see [Textile's Bounty Overview](https://www.notion.so/Bounty-Overview-f8c96a7df04544389526b32ad2332bd4).
+For full details on all bounties below see [Textile's Bounty Overview](https://www.notion.so/Bounty-Overview-f8c96a7df04544389526b32ad2332bd4) Notion page.
 
-##### **Miner Index Tools and Visualizations**
+#### **Miner Index Tools and Visualizations**
 
-- Bounty 1 ($2500) - Miner Index Visual Explorer
+- Bounty 1 ($2500): Miner Index Visual Explorer
 - Bounty 2 ($2000): Best Ethereum-based oracle built on the Miner Index
 
-##### **Filecoin Storage Use-cases**
+#### **Filecoin Storage Use-cases**
 
 - Bounty 1 ($1500): The best innovation or novelty in a video app or platform that uses Filecoin as a primary storage mechanism.
 - Bounty 2 ($1500): The best innovation or novelty in a collaboration or organizational tool that uses Filecoin as a primary storage mechanism.
 
-##### ThreadDB and Buckets
+#### ThreadDB and Buckets
 
 - Bounty 1 ($1500): The best application or novel service built on Threads.
 - Bounty 2 ($1500): Best PR or repo that surfaces new benchmarks or metrics for threads or the threads network.
 
-##### Community Enablers
+#### Community Enablers
 
 - Bounty 1 ($500): Best React boilerplates to help projects build with Textile Buckets and Filecoin APIs (including the miner index).
 
@@ -42,6 +42,6 @@ For details on all bounties below see [Textile's Bounty Overview](https://www.no
 
 $12,500 in prizes + matching from PL
 
-[TODO-link]
+*[Coming Soon!]*
 
 ## IPFS Bounties
