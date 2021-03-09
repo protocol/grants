@@ -14,7 +14,7 @@ To amplify the ability of expert teams in our ecosystem to be co-creators and st
 
 Protocol Labs will match ecosystem collaborator prizes starting with the Gitcoin GR9 hackathon.
 
-***Learn more about project ideas and prizes in the [gitcoin-gr9-hackthon]() folder.***
+***Learn more about project ideas and bounties in the [gitcoin-gr9-hackthon/all-prizes](https://github.com/protocol/grants/blob/main/gitcoin-gr9-hackathon/all-prizes.md).***
 
 ### Filecoin Dev Grants - Wave 7
 
