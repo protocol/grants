@@ -4,6 +4,16 @@ Grants for ecosystem grant funders, builders and researchers in the Filecoin and
 
 ## Current Programs
 
+### Hackathons
+
+- [Gitcoin GR9 Hackthon](#gitcoin-gr9-hackthon)
+- [ChainLink Spring 2021 Hackathon](#chainlink-spring-2021-hackthon)
+
+### Grants
+- [Filecoin Dev Grants - Wave 7](#filecoin-dev-grants---wave-7)
+
+--------
+
 ### Gitcoin GR9 Hackathon 
 
 **March 10 - 31, 2021**

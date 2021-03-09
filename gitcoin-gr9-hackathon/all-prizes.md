@@ -12,7 +12,7 @@ Protocol Labs and its ecosystem collaborators Textile and Fleek, will be awardin
 Have an idea that isn't listed here or questions? Talk to us:
 
 - Hackthon-specific Filecoin and IPFS-related questions can be asked in the [#gitcoin-gr9-hackathon](https://filecoinproject.slack.com/archives/C01QPJFKB5G) channel in **Filecoin Slack** ([invite link](https://filecoin.io/slack))
-- General IPFS questions can also be asked in the [#ipfs channel on irc.freenode.org](irc://irc.freenode.org/%23ipfs) on IRC/Matrix or https://discuss.ipfs.io 
+- General IPFS questions can also be asked in the [#ipfs channel on irc.freenode.org](irc://irc.freenode.org/#ipfs) on IRC/Matrix or [discuss.ipfs.io](https://discuss.ipfs.io) forums
 
 ## Textile Bounties
 
