@@ -10,9 +10,9 @@ Grants for ecosystem grant funders, builders and researchers in the Filecoin and
 
 Protocol Labs is a co-sponsor of the [Gitcoin GR9 Hackthon](https://gitcoin.co/hackathon/gr9/).
 
-To amplify the ability of expert teams in our ecosystem to be co-creators and stewards, Protocol Labs has invited our ecosystem collaborators to submit RFPs and bounties along with prizes they are funding.
+To amplify the ability of expert teams in our ecosystem to be co-creators and stewards, Protocol Labs has invited our ecosystem collaborators to submit RFPs and bounties along with prize amounts they are funding.
 
-Protocol Labs will match all proposed prizes starting with the Gitcoin GR9 hackathon.
+Protocol Labs will match ecosystem collaborator prizes starting with the Gitcoin GR9 hackathon.
 
 ***Learn more about project ideas and prizes in the [gitcoin-gr9-hackthon]() folder.***
 
@@ -33,4 +33,13 @@ You can learn about current RFPs, how to apply via PR, and previously funded pro
 *Also Upcoming....*
 
 ### ChainLink Spring 2021 Hackathon
-### NFT Hacks by EthGlobal
+
+**March 15 - April 11, 2021**
+
+https://chain.link/hackathon
+
+### NFT Hack by EthGlobal
+
+**March 19 - 21, 2021**
+
+https://nfthack.ethglobal.co
