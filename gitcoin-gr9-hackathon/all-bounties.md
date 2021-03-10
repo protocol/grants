@@ -8,16 +8,15 @@ Protocol Labs and its ecosystem collaborators Textile and Fleek, will be awardin
   - [IPFS Bounties](#ipfs-bounties)
   - [Filecoin Bounties](#filecoin-bounties)
 
-If you have questions or an idea that isn't listed here, talk to us:
+Have questions or an idea that isn't listed here? Talk to us!
 
-- For GR9 hackthon Filecoin and IPFS questions head to the [#gitcoin-gr9-hackathon](https://filecoinproject.slack.com/archives/C01QPJFKB5G) channel in **Filecoin Slack** ([invite link](https://filecoin.io/slack)).
+- For GR9 hackthon Filecoin and IPFS questions head to the [#gitcoin-gr9-hackathon](https://filecoinproject.slack.com/archives/C01QPJFKB5G) channel in [**Filecoin Slack**](https://filecoin.io/slack).
 - General IPFS questions can also be asked in the **#ipfs** channel on [irc.freenode.org](irc://irc.freenode.org/#ipfs) on IRC/Matrix or the [discuss.ipfs.io](https://discuss.ipfs.io) forums.
 
 ## Textile Bounties
 
-$12,500 in prizes (in FIL) + 100% matching from PL
-
-For further details on all bounties below see [**Textile's Bounty Overview**](./textile-bounties.md).
+- **Prizes:** Up to $12,500 in prizes (in FIL) from Textile + additional 100% matching from Protocol Labs
+- For further details on all bounties below see the [**Textile's Bounties**](https://github.com/protocol/grants/issues/8) issue.
 
 ##### **Miner Index Tools and Visualizations**
 
@@ -49,11 +48,10 @@ We want to fund educational and onboarding tools for the ecosystem.
 
 ## Fleek Bounties
 
-$7,500 in prizes (in FIL) + 100% matching from PL
+- **Prizes:** Up to $7,500 in prizes (in FIL) from Fleek + additional 100% matching from Protocol Labs
+- Further details about all tracks below can be found at the [**Fleek Bounties**](https://github.com/protocol/grants/issues/7) issue.
 
 The Fleek team will be awarding a total of $7,500 to projects building on top of the Space SDK library, primarily, and using other Fleek tools (Fleek hosting, storage UI, Storage JS) to complement the development.
-
-Further details about the tracks below can be found at [**Fleek's Bounties Overview**](./fleek-prizes.md).
 
 - 1st Prize - 1 team ($2,000 + Protocol Labs matching)
 - 2nd Prize - 3 teams (each $1,000 + Protocol Labs matching)
@@ -71,10 +69,20 @@ Fleek invites developers to build using the open source [Space SDK](https://gith
 3) **Communication Track**:
    - Build a Communication Dapp Powered by the Space SDK
 
+##### Useful Resources:
+- Fleek Platform: http://fleek.co/ 
+- Space SDK repo: https://github.com/FleekHQ/space-sdk
+- Space SDK documentation: https://fleekhq.github.io/space-sdk/docs/
+- Space SDK package breakdown: https://fleekhq.github.io/space-sdk/docs/sdk
+- Space Web repository: https://github.com/FleekHQ/space-web
+- Fleek Storage JS: https://docs.fleek.co/storage/fleek-storage-js/
 
 ## IPFS Bounties
 
-- $13,000 in prizes (in FIL)
+- **Prizes:** Up to $13,000 in prizes (in FIL)
+- Further details can be found at the [**IPFS Bounties**](https://github.com/protocol/grants/issues/6) issue.
+
+Protocol Labs is offering a wide range of bounty categories for IPFS:
 
 ##### Importers/Migrators ($1000)
 - Best tools, libraries or APIs for migrating, syncing or auto-publishing data from a centralized service to IPFS
@@ -105,7 +113,8 @@ Fleek invites developers to build using the open source [Space SDK](https://gith
 
 ## Filecoin Bounties
 
-- $10,000 in prizes (in FIL)
+- **Prizes:** Up to $10,000 in prizes (in FIL)
+- Further details can be found at the [**Filecoin Bounties**](https://github.com/protocol/grants/issues/5) issue.
 
 Protocol Labs is offering a range of bounties, including educational ones for Filecoin tutorials and suggesting improvements, or trying out some new Filecoin developer libraries. There are also larger bounties for building interesting dapps that integrate with Filecoin.
 
