@@ -18,13 +18,13 @@ Grants for ecosystem grant funders, builders and researchers in the Filecoin and
 
 **March 10 - 31, 2021**
 
+***Learn more about project ideas and bounties in the [gitcoin-gr9-hackthon/all-prizes](https://github.com/protocol/grants/blob/main/gitcoin-gr9-hackathon/all-bounties.md).***
+
 Protocol Labs is a co-sponsor of the [Gitcoin GR9 Hackthon](https://gitcoin.co/hackathon/gr9/).
 
 To amplify the ability of expert teams in our ecosystem to be co-creators and stewards, Protocol Labs has invited our ecosystem collaborators to submit RFPs and bounties they are funding.
 
 Protocol Labs will match ecosystem collaborator prizes starting with the Gitcoin GR9 Hackathon.
-
-***Learn more about project ideas and bounties in the [gitcoin-gr9-hackthon/all-prizes](https://github.com/protocol/grants/blob/main/gitcoin-gr9-hackathon/all-prizes.md).***
 
 ### Filecoin Dev Grants - Wave 7
 
