@@ -1,13 +1,12 @@
 
 # Protocol Labs + Collaborator Bounties
 
-Protocol Labs and its ecosystem collaborators Textile and Fleek, will be awarding a total of $43,000 in prizes (all prizes will be in FIL).
+Protocol Labs and its ecosystem collaborators Textile and Fleek, will be awarding a total of $43,000 in prizes (all prizes are in FIL).
 
   - [Textile Bounties](#textile-bounties)
   - [Fleek Bounties](#fleek-bounties)
   - [IPFS Bounties](#ipfs-bounties)
   - [Filecoin Bounties](#filecoin-bounties)
-
 
 If you have questions or an idea that isn't listed here, talk to us:
 
@@ -16,7 +15,7 @@ If you have questions or an idea that isn't listed here, talk to us:
 
 ## Textile Bounties
 
-$12,500 in prizes + 100% matching from PL
+$12,500 in prizes (in FIL) + 100% matching from PL
 
 For further details on all bounties below see [**Textile's Bounty Overview**](./textile-bounties.md).
 
@@ -24,33 +23,33 @@ For further details on all bounties below see [**Textile's Bounty Overview**](./
 
 Textile recently launched the Filecoin Miner Index, a comprehensive miner storage performance history and real-time index for the Filecoin network.
 
-- Miner Index Visual Explorer ($2500 + Protocol Labs matching)
-- Best Ethereum-based Oracle built on the Miner Index ($2000 + Protocol Labs matching)
+- **Miner Index Visual Explorer** ($2500 + Protocol Labs matching)
+- **Best Ethereum-based Oracle built on the Miner Index** ($2000 + Protocol Labs matching)
 
 ##### **Filecoin Storage Use-cases**
 
 We're focused on three areas of development that we think are particularly well-suited to adopt Filecoin today. We want to see projects that work to store these datasets using online deal storage through [Powergate](https://docs.textile.io/powergate/), [Lotus](https://docs.filecoin.io/get-started/lotus/installation/), or Textile's [Bucket Archiving API](https://docs.textile.io/buckets/archiving/).
 
-- Best Video App on Filecoin ($1500 + Protocol Labs matching)
-- Best Collaboration Tool on Filecoin ($1500 + Protocol Labs matching)
+- **Best Video App on Filecoin** ($1500 + Protocol Labs matching)
+- **Best Collaboration Tool on Filecoin** ($1500 + Protocol Labs matching)
 
 ##### ThreadDB and Buckets
 
 Threads allow you to connect multiple databases (or users) and keep data in-sync across Libp2p. Buckets are one of the first applications built on Threads. Buckets provide an easy way to sync folders of data over Libp2p and accessible over IPFS. We provide remote services to host, relay, and persist Threads and Buckets for users.
 
-- Best App using Threads ($1500 + Protocol Labs matching)
-- Threads Benchmarks ($1500 + Protocol Labs matching)
-- Best Use of Bucket Pinning API ($1500 + Protocol Labs matching)
+- **Best App using Threads** ($1500 + Protocol Labs matching)
+- **Threads Benchmarks and Metrics** ($1500 + Protocol Labs matching)
+- **Best Use of Bucket Pinning API** ($1500 + Protocol Labs matching)
 
 ##### Community Enablers
 
 We want to fund educational and onboarding tools for the ecosystem.
 
-- React Boilerplates for Buckets and Filecoin APIs ($500 + PL matching)
+- **React Boilerplates for Buckets and Filecoin APIs** ($500 + PL matching)
 
 ## Fleek Bounties
 
-$7,500 in prizes + 100% matching from PL
+$7,500 in prizes (in FIL) + 100% matching from PL
 
 The Fleek team will be awarding a total of $7,500 to projects building on top of the Space SDK library, primarily, and using other Fleek tools (Fleek hosting, storage UI, Storage JS) to complement the development.
 
@@ -75,7 +74,7 @@ Fleek invites developers to build using the open source [Space SDK](https://gith
 
 ## IPFS Bounties
 
-- $13,000 in Prizes
+- $13,000 in prizes (in FIL)
 
 ##### Importers/Migrators ($1000)
 - Best tools, libraries or APIs for migrating, syncing or auto-publishing data from a centralized service to IPFS
@@ -106,7 +105,7 @@ Fleek invites developers to build using the open source [Space SDK](https://gith
 
 ## Filecoin Bounties
 
-- $10,000 in prizes
+- $10,000 in prizes (in FIL)
 
 Protocol Labs is offering a range of bounties, including educational ones for Filecoin tutorials and suggesting improvements, or trying out some new Filecoin developer libraries. There are also larger bounties for building interesting dapps that integrate with Filecoin.
 
