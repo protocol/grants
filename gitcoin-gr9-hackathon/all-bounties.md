@@ -1,5 +1,7 @@
 
-# Protocol Labs + Collaborator Bounties
+# Protocol Labs + Collaborator Bounties for Gitcoin's GR9 Hackathon
+
+**Visit https://gitcoin.co/hackathon/gr9/?org=protocol to apply for these bounties!**
 
 Protocol Labs and its ecosystem collaborators Textile and Fleek, will be awarding a total of $43,000 in prizes (all prizes are in FIL).
 
