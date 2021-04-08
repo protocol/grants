@@ -6,25 +6,23 @@ Grants for ecosystem grant funders, builders and researchers in the Filecoin and
 
 ### Hackathons
 
-- [Gitcoin GR9 Hackthon](https://github.com/protocol/grants/blob/main/README.md#gitcoin-gr9-hackthon)
-- [ChainLink Spring 2021 Hackathon](https://github.com/protocol/grants/blob/main/README.md#chainlink-spring-2021-hackathon)
+Active & Upcoming
+- Mar 15 - Apr 11: [ChainLink Spring 2021 Hackathon](https://chain.link/hackathon)
+- Apr 16 - May 14: [ETHGlobal Scaling Ethereum](https://scaling.ethglobal.co/)
+- Apr 16 - Apr 18: [Calhacks hello:world](https://calhacks.io/)
+- Apr 13 - Apr 26: [GameDevJS](https://gamedevjs.com/jam/2021/)
+- Apr 23 - Apr 25: [ASUC CivHacks](https://civhacks.com)
+
+2021 Completed
+- Feb 05 - Feb 12: [ETHDenver](https://www.ethdenver.com/)
+- Mar 10 - Mar 31: [Gitcoin GR9 Hackthon](https://gitcoin.co/hackathon/gr9/onboard)
+- Mar 19 - Mar 21: [ETHGlobal NFTHack](https://nfthack.ethglobal.co/)
 
 ### Grants
 - [Filecoin Dev Grants - Wave 7](https://github.com/protocol/grants/blob/main/README.md#filecoin-dev-grants---wave-7)
 
 --------
 
-### Gitcoin GR9 Hackathon
-
-**March 10 - 31, 2021**
-
-***Learn more about project ideas and bounties in the [gitcoin-gr9-hackthon/all-prizes](https://github.com/protocol/grants/blob/main/gitcoin-gr9-hackathon/all-bounties.md).***
-
-Protocol Labs is a co-sponsor of the [Gitcoin GR9 Hackthon](https://gitcoin.co/hackathon/gr9/).
-
-To amplify the ability of expert teams in our ecosystem to be co-creators and stewards, Protocol Labs has invited our ecosystem collaborators to submit RFPs and bounties they are funding.
-
-Protocol Labs will match ecosystem collaborator prizes starting with the Gitcoin GR9 Hackathon.
 
 ### Filecoin Dev Grants - Wave 7
 
@@ -38,18 +36,7 @@ Dev Grants Waves are quarterly and accepted on a rolling basis, although it's be
 
 You can learn about current RFPs, how to apply via PR, and previously funded projects in the [Filecoin Dev Grants repo](https://github.com/filecoin-project/devgrants).
 
--------
+### Next Step Grants
 
-*Also Upcoming....*
+What happens after the hackathon? The Next Step grants program lets you take that next step with your project - develop it a bit further, get it ready for an accelator, incubator or investment. The pilot of this program is open to teams who participated in the ETHGlobal NFTHacks event. If that's you, [apply now](nextstep.md).
 
-### ChainLink Spring 2021 Hackathon
-
-**March 15 - April 11, 2021**
-
-https://chain.link/hackathon
-
-### NFT Hack by EthGlobal
-
-**March 19 - 21, 2021**
-
-https://nfthack.ethglobal.co
