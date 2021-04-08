@@ -49,7 +49,7 @@ Gather the following information for your application:
 
 * URL to your hackathon submission, proving you're the team
 * Description describing how IPFS, Filecoin or libp2p are used in the project, and URL to Github repo and relevant code
-* List of all team member information: name, mailing address, phone number, FIL wallet address, Github account and a completed US [IRS W8 (foreign resident)](https://www.irs.gov/forms-pubs/about-form-w-8) or [W9 (US resident)](https://www.irs.gov/forms-pubs/about-form-w-9) form
+* List of all team member information: name, mailing address, phone number, FIL wallet address, Github account and a completed US [IRS W8 (outside US)](https://www.irs.gov/forms-pubs/about-form-w-8) or [W9 (resident of US)](https://www.irs.gov/forms-pubs/about-form-w-9) form
 
 Application steps:
 
@@ -74,6 +74,9 @@ Application steps:
 
 * Q: Do you pay out in other currencies besides FIL?
   * A: No
+
+* Q: Can we have more than five people on our team?
+  * A: Yes! However, the maximum grant distribution is $2k of FIL per person, for up to five people. After disbursement, the individual is full control of the funds and can do what they like with them.
 
 * Q: What if we don't finish the 30 days and run off with the money?
   * A: You will carry the weight of your decision for the rest of your days, and be reborn in the next life as a hungry ghost.
