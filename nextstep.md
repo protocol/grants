@@ -78,5 +78,11 @@ Application steps:
 * Q: Can we have more than five people on our team?
   * A: Yes! However, the maximum grant distribution is $2k of FIL per person, for up to five people. After disbursement, the individual is full control of the funds and can do what they like with them.
 
+* Q: Can someone join the team who was not part of the original hackathon? Or can I switch with someone? Or can only a subset of the original team still participate?
+  * A: Yes! All team permutations are ok as long as these two requirements are met: 1) only one submission per original hackathon project 2) at least one original hackathon participant must be a member of the team
+
+* Q: I'm not a coding participant, I just coordinated or made videos or helped in other ways - am I eligible?
+  * A: YES! In real life, successful products are the result of many roles, skills, backgrounds and disciplines... not just coding. You are an INSTRUMENTAL part of your team, and are eligible to receive the grant.
+
 * Q: What if we don't finish the 30 days and run off with the money?
   * A: You will carry the weight of your decision for the rest of your days, and be reborn in the next life as a hungry ghost.
