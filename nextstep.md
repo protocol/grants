@@ -53,7 +53,7 @@ Gather the following information for your application:
 
 Application steps:
 
-1. Follow the steps in the [ipfs/community](https://github.com/ipfs/community/blob/master/README.md#ecosystem-projects) Github repository to add your project - this entails creating a pull request with a markdown file that contains your project information
+1. Follow the steps in the [ipfs/community](https://github.com/ipfs/community/blob/master/README.md#ecosystem-projects) Github repository to add your project profile - this entails creating a pull request with a markdown file that contains your project information
 2. [Register your project](https://airtable.com/shrjwvk9pAeAk0Ci7) for the IPFS ecosystem database
 3. Fill out this [VERY SHORT survey](https://airtable.com/shrDZMizx03jOa4mQ) about your hackathon project
 4. Email dev-grants@protocol.ai with 1) a link to the PR above, and 2) the team contact information so we can provide payment instructions
