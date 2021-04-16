@@ -10,10 +10,10 @@ All you need to do is sign up, add your project to the community showcase, give 
 
 ## Program Qualifications
 
-This program is currently open to teams of the [ETHGlobal NFTHack](https://nft.ethglobal.co/) hackathon who submitted for any prize category, who meet the following requirements:
+This program is currently open to teams of the [ETHGlobal NFTHack](https://nft.ethglobal.co/) and Chainlink hackathons who submitted for Protocol Labs prize categories, who meet the following requirements:
 
 * Filecoin, IPFS or libp2p was used in the project stack, either directly or through a framework, library or service
-* Team size is a maximum of five members
+* Team size is a maximum of five members (or more, but only five grant recipients)
 * Project is open source, under the [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
 ## Reporting requirements
@@ -57,6 +57,7 @@ Application steps:
 2. [Register your project](https://airtable.com/shrjwvk9pAeAk0Ci7) for the IPFS ecosystem database
 3. Fill out this [VERY SHORT survey](https://airtable.com/shrDZMizx03jOa4mQ) about your hackathon project
 4. Email dev-grants@protocol.ai with 1) a link to the PR above, and 2) the team contact information so we can provide payment instructions
+5. Join [#hackathons-help in the Protocol Labs Discord](https://discord.gg/vZTcrFePpt)
 
 ## FAQ
 
