@@ -6,8 +6,9 @@ Grants for ecosystem grant funders, builders and researchers in the Filecoin and
 
 ### Hackathons
 
+Join [#hackathon-support on the IPFS Discord](https://discord.gg/vZTcrFePpt) for questions about these events.
+
 Active & Upcoming
-- Mar 15 - Apr 11: [ChainLink Spring 2021 Hackathon](https://chain.link/hackathon)
 - Apr 16 - May 14: [ETHGlobal Scaling Ethereum](https://scaling.ethglobal.co/)
 - Apr 16 - Apr 18: [Calhacks hello:world](https://calhacks.io/)
 - Apr 13 - Apr 26: [GameDevJS](https://gamedevjs.com/jam/2021/)
@@ -17,6 +18,7 @@ Active & Upcoming
 - Feb 05 - Feb 12: [ETHDenver](https://www.ethdenver.com/)
 - Mar 10 - Mar 31: [Gitcoin GR9 Hackthon](https://gitcoin.co/hackathon/gr9/onboard)
 - Mar 19 - Mar 21: [ETHGlobal NFTHack](https://nfthack.ethglobal.co/)
+- Mar 15 - Apr 11: [ChainLink Spring 2021 Hackathon](https://chain.link/hackathon)
 
 ### Grants
 - [Filecoin Dev Grants - Wave 7](https://github.com/protocol/grants/blob/main/README.md#filecoin-dev-grants---wave-7)
