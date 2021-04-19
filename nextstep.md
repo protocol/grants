@@ -31,13 +31,13 @@ Conclude the 30 day period with a report using the provided template, which cont
 
 Each team member will receive 2000USD worth of FIL once, issued within 30 days of acceptance to the program, using the value of FIL at the time of payment issuance.
 
-All payees are required to provide:
+All payees are required to provide the information below, submitted to a form we will provide:
 
 * name
 * mailing address
 * email address
 * phone number
-* FIL wallet address
+* Filecoin (FIL) wallet address
 * Github account
 * A completed US IRS W8 or W9 form
 
@@ -47,16 +47,16 @@ Team membership may not change after acceptance to the program - those that join
 
 Gather the following information for your application:
 
-* URL to your hackathon submission, proving you're the team
-* Description describing how IPFS, Filecoin or libp2p are used in the project, and URL to Github repo and relevant code
+* URL to your hackathon submission, proving you're a team that submitted for a Protocol Labs prize
+* Description describing how IPFS, Filecoin or libp2p are used in the project, and a URL to Github repo and relevant code
 * List of all team member information: name, mailing address, phone number, FIL wallet address, Github account and a completed US [IRS W8 (outside US)](https://www.irs.gov/forms-pubs/about-form-w-8) or [W9 (resident of US)](https://www.irs.gov/forms-pubs/about-form-w-9) form
 
 Application steps:
 
-1. Follow the steps in the [ipfs/community](https://github.com/ipfs/community/blob/master/README.md#ecosystem-projects) Github repository to add your project profile - this entails creating a pull request with a markdown file that contains your project information
+1. Follow the steps in the [ipfs/community](https://github.com/ipfs/community/blob/master/README.md#ecosystem-projects) Github repository to add your project profile to the IPFS community showcase
 2. [Register your project](https://airtable.com/shrjwvk9pAeAk0Ci7) for the IPFS ecosystem database
 3. Fill out this [VERY SHORT survey](https://airtable.com/shrDZMizx03jOa4mQ) about your hackathon project
-4. Email dev-grants@protocol.ai with 1) a link to the PR above, and we'll reply with a form for you to enter your team payment information
+4. Email dev-grants@protocol.ai with a link to the PR above. DO NOT SEND THE TEAM PAYMENT INFO IN THE EMAIL! We'll reply with a form for you to enter your team payment information.
 5. Join [#hackathons-help in the Protocol Labs Discord](https://discord.gg/vZTcrFePpt)
 
 ## FAQ
@@ -75,6 +75,9 @@ Application steps:
 
 * Q: Do you pay out in other currencies besides FIL?
   * A: No
+
+* Q: Should I send the payment information and W8/9 forms to you over email?
+  * A: No. We will reply with a form where you can submit that information
 
 * Q: Can we have more than five people on our team?
   * A: Yes! However, the maximum grant distribution is $2k of FIL per person, for up to five people. After disbursement, the individual is full control of the funds and can do what they like with them.
