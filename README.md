@@ -13,6 +13,7 @@ Active & Upcoming
 - Apr 16 - Apr 18: [Calhacks hello:world](https://calhacks.io/)
 - Apr 13 - Apr 26: [GameDevJS](https://gamedevjs.com/jam/2021/)
 - Apr 23 - Apr 25: [ASUC CivHacks](https://civhacks.com)
+- May 01 - Jun 30: [HackerLink](https://hackerlink.io/en)
 
 2021 Completed
 - Feb 05 - Feb 12: [ETHDenver](https://www.ethdenver.com/)
