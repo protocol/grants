@@ -10,7 +10,7 @@ All you need to do is sign up, add your project to the community showcase, give 
 
 ## Program Qualifications
 
-This program is currently open to teams of the [ETHGlobal NFTHack](https://nft.ethglobal.co/) and Chainlink hackathons who submitted for Protocol Labs prize categories, who meet the following requirements:
+This program is currently open to teams of the [ETHGlobal NFTHack](https://nft.ethglobal.co/), Cal Hacks hello:world, Chainlink, CivHacks and GameDevJS hackathons who submitted for Protocol Labs prize categories, and who meet the following requirements:
 
 * Filecoin, IPFS or libp2p was used in the project stack, either directly or through a framework, library or service
 * Team size is a maximum of five members (or more, but only five grant recipients)
@@ -78,6 +78,12 @@ Application steps:
 
 * Q: Should I send the payment information and W8/9 forms to you over email?
   * A: No. We will reply with a form where you can submit that information
+
+* Q: Which Filecoin wallet should I use?
+  * A: Any valid Filecoin address can be used. You can read more about Filecoin wallets [in the documentation](https://docs.filecoin.io/reference/#wallets). We are not responsible for any use of the FIL once the deposit has been made to the wallet address you provide to us.
+
+* Q: When is the Filecoin payment made, at what price, and will I be notified?
+  * A: Protocol Labs processes Filecoin payments twice monthly, and there is a validation period for transactions, so typically you will not have to wait longer than three weeks once your PR has been merged. The Filecoin price at the end of the prior day is used to determine the amount, however this may vary based on market conditions. You will receive an email notifying you that your deposit has been made.
 
 * Q: Can we have more than five people on our team?
   * A: Yes! However, the maximum grant distribution is $2k of FIL per person, for up to five people. After disbursement, the individual is full control of the funds and can do what they like with them.
