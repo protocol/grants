@@ -39,25 +39,71 @@ All payees are required to provide the information below, submitted to a form we
 * phone number
 * Filecoin (FIL) wallet address
 * Github account
-* A completed US IRS W8 or W9 form
+* A completed US IRS W8 or W9 form (See W8/9 section below)
 
 Team membership may not change after acceptance to the program - those that join afterwards are not eligible for the grant.
 
 ## How to apply
 
-Gather the following information for your application:
+First, gather the following information together:
 
 * URL to your hackathon submission, proving you're a team that submitted for a Protocol Labs prize
-* Description describing how IPFS, Filecoin or libp2p are used in the project, and a URL to Github repo and relevant code
-* List of all team member information: name, mailing address, phone number, FIL wallet address, Github account and a completed US [IRS W8 (outside US)](https://www.irs.gov/forms-pubs/about-form-w-8) or [W9 (resident of US)](https://www.irs.gov/forms-pubs/about-form-w-9) form
+* Description describing how IPFS, Filecoin or libp2p are used in your project
+* URL to Github repo and relevant code, licensed with MIT license
+* List of all team member information: name, mailing address, phone number, FIL wallet address, Github account
+* If team members are individually receiving a prize worth more than $600, you will need to each provide a completed US IRS W8 (outside US) or W9 (resident of US) form (See W8/9 section below)
 
 Application steps:
 
-1. Follow the steps in the [ipfs/community](https://github.com/ipfs/community/blob/master/README.md#ecosystem-projects) Github repository to add your project profile to the IPFS community showcase
+1. Add your project to the IPFS Community Showcase by following the instructions in the [ipfs/community](https://github.com/ipfs/community/blob/master/README.md#ecosystem-projects) Github repository
 2. [Register your project](https://airtable.com/shrjwvk9pAeAk0Ci7) for the IPFS ecosystem database
 3. Fill out this [VERY SHORT survey](https://airtable.com/shrDZMizx03jOa4mQ) about your hackathon project
 4. Email dev-grants@protocol.ai with a link to the PR above. DO NOT SEND THE TEAM PAYMENT INFO IN THE EMAIL! We'll reply with a form for you to enter your team payment information.
 5. Join [#hackathons-help in the Protocol Labs Discord](https://discord.gg/vZTcrFePpt)
+
+## W8/9 IRS Form
+
+Are you receiving a prize or bounty worth *less* than USD $600? If so, you do *not* need to provide an IRS form, and can ignore this section!
+
+### US Residents
+
+If you are you receiving a bounty worth more than USD $600 and you are a U.S. resident, you must complete and sign a W9 Form before we can deliver your granted Filecoin tokens, as this will be reported on IRS form 1099.
+
+You can find the IRS instructions here:
+https://www.irs.gov/forms-pubs/about-form-w-9
+
+You can find the IRS W-9 form here:
+https://www.irs.gov/pub/irs-pdf/fw9.pdf
+
+### International Teams
+
+If you are receiving a bounty worth more than USD $600, and are not a U.S. citizens and you live outside of the United States, you must complete and sign a W-8 form.
+ 
+The IRS provides five W-8 forms. We encourage you to consult with your own tax or financial adviser to determine which form is appropriate for you which are listed below.
+ 
+1. W-8-BEN, Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding and Reporting (Individuals).
+Access the W-8-BEN Form and IRS Instructions:
+Instructions: https://www.irs.gov/instructions/iw8ben
+Form: https://www.irs.gov/pub/irs-pdf/fw8ben.pdf
+ 
+2. W-8-BEN-E, Certificate of Status of Beneficial Owner for United States Tax Withholding and Reporting (Entities).
+Access the W-8-BEN-E Form and IRS Instructions:
+Instructions: https://www.irs.gov/instructions/iw8bene
+Form: https://www.irs.gov/pub/irs-pdf/fw8bene.pdf
+ 
+3. W-8-ECI, Certificate of Foreign Person’s Claim That Income is Effectively Connected With the Conduct of a Trade or Business in the United States.
+Access the W-8-ECI Form and IRS Instructions:
+Instructions: https://www.irs.gov/pub/irs-pdf/iw8eci.pdf
+Form: https://www.irs.gov/pub/irs-pdf/fw8eci.pdf
+ 
+4. W-8-EXP, Certificate of Foreign Government or Other Foreign Organization for United States Tax Withholding and Reporting.  Access the W-8-EXP Form and IRS Instructions
+Instructions: https://www.irs.gov/pub/irs-pdf/iw8exp.pdf
+Form: https://www.irs.gov/pub/irs-pdf/fw8exp.pdf
+ 
+5. W-8-IMY, Certificate of Foreign Intermediary, Foreign Flow-Through Entity, or Certain U.S. Branches for United States Tax Withholding and Reporting. Access the W-8-IMY Form and IRS Instructions
+Instructions: https://www.irs.gov/individuals/international-taxpayers/form-w-8imy
+Form: https://www.irs.gov/pub/irs-pdf/fw8imy.pdf
+ 
 
 ## FAQ
 
