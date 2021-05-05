@@ -55,11 +55,13 @@ First, gather the following information together:
 
 Application steps:
 
-1. Add your project to the IPFS Community Showcase by following the instructions in the [ipfs/community](https://github.com/ipfs/community/blob/master/README.md#ecosystem-projects) Github repository
-2. [Register your project](https://airtable.com/shrjwvk9pAeAk0Ci7) for the IPFS ecosystem database
-3. Fill out this [VERY SHORT survey](https://airtable.com/shrDZMizx03jOa4mQ) about your hackathon project
-4. Email dev-grants@protocol.ai with a link to the PR above. DO NOT SEND THE TEAM PAYMENT INFO IN THE EMAIL! We'll reply with a form for you to enter your team payment information.
-5. Join [#hackathons-help in the Protocol Labs Discord](https://discord.gg/vZTcrFePpt)
+1. Join [#hackathons-help in the Protocol Labs Discord](https://discord.gg/vZTcrFePpt)
+2. Add your project to the IPFS Community Showcase by following the instructions in the [ipfs/community](https://github.com/ipfs/community/blob/master/README.md#ecosystem-projects) Github repository
+3. [Register your project](https://airtable.com/shrjwvk9pAeAk0Ci7) for the IPFS ecosystem database
+4. Fill out this [VERY SHORT survey](https://airtable.com/shrDZMizx03jOa4mQ) about your hackathon project
+5. ONLY once your ipfs/community PR has been merged, email dev-grants@protocol.ai with a URL to your team's project file, and cc'ing all members of your team with title "Next Step grant application"
+
+DO NOT SEND US ANY PAYMENT INFO IN THE EMAIL! We'll reply with a form for you to enter your team payment information later.
 
 ## W8/9 IRS Form
 
@@ -109,6 +111,9 @@ Form: https://www.irs.gov/pub/irs-pdf/fw8imy.pdf
 
 * Q: Are other hackathon submissions that use the qualifying technologies accepted?
   * A: Not yet, but we are evaluating expanding the program to more events in the future
+
+* Q: Is there a deadline to apply for the grant, after the hackathon I participated in ends?
+  * A: Not at this time, however we expect to institute a rule at somepoint - possibly "within 30 days of event end" or something like that.
 
 * Q: My project uses OrbitDB, Textile or other framework, not IPFS directly, does it qualify?
   * A: Yes
