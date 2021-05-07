@@ -17,7 +17,7 @@
 - [Improved Garbage Collection in IPFS](#improved-garbage-collection-in-ipfs)
 - [S3 Interface to Filecoin and IPFS](#s3-interface-to-filecoin-and-ipfs)
 - [Filecoin PubSub Observatory](#filecoin-pubsub-observatory)
-- [Better go-ipfs Node Observability](#better-go-ipfs-node-observability)
+- [Better go-ipfs Observability](#better-go-ipfs-observability)
 
 &nbsp;
 
