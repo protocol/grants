@@ -20,8 +20,8 @@ Active & Upcoming
 - Apr 13 - Apr 26: [GameDevJS](https://gamedevjs.com/jam/2021/)
 - Mar 19 - Mar 21: [ETHGlobal NFT Hack](https://nfthack.ethglobal.co/)
 - Mar 15 - Apr 11: [ChainLink Spring 2021 Hackathon](https://chain.link/hackathon)
-- - Mar 10 - Mar 31: [Gitcoin GR9 Hackthon](https://gitcoin.co/hackathon/gr9/onboard)
-- - Feb 05 - Feb 12: [ETHDenver](https://www.ethdenver.com/)
+- Mar 10 - Mar 31: [Gitcoin GR9 Hackthon](https://gitcoin.co/hackathon/gr9/onboard)
+- Feb 05 - Feb 12: [ETHDenver](https://www.ethdenver.com/)
 
 ### Grants
 - [Filecoin Dev Grants - Wave 8](https://github.com/protocol/grants#filecoin-dev-grants---wave-8) - proposals due June 30, 2021
