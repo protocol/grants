@@ -48,7 +48,7 @@ You can learn about current RFPs, how to apply via PR, and previously funded pro
 
 ### Protocol Labs Contributor RFPs
 
-Protocol Labs has a number of RFPs for projects related to core contributions around the complementary IPFS and Filecoin stacks, as well as dev tooling and supporting libraries.
+Protocol Labs has a number of RFPs for projects related to core contributions to the IPFS and Filecoin complementary stacks, as well as developer tooling and supporting libraries.
 
 Take a look at our current [Contributor RFPs](https://github.com/protocol/grants/blob/main/grant-rfps/contributor-grants.md) and contact dev-grants@protocol.ai if you're interested in learning more and contributing to one of these projects! We're looking to engage more developers to build core tools in our ecosytem.
 
