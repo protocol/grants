@@ -1,4 +1,4 @@
-# RFPs for IPFS and Filecoin from Protocol Labs
+# RFPs for IPFS and Filecoin
 
 **Protocol Labs is seeking grant proposals for the following RFPs for IPFS, Filecoin and libp2p.**
 
@@ -8,7 +8,7 @@
 
 [Open an issue](https://github.com/protocol/grants/issues/new?assignees=eshon&labels=&template=rfp-proposal.md&title=%3CYour+Project+Title%3E) with your proposal, following the RFP template.
 
-*For questions about RFPs or to submit proposals via email, contact **dev-grants@protocol.ai***
+*For questions about RFPs or to submit a proposal by email, contact **dev-grants@protocol.ai***
 
 -----
 
@@ -18,6 +18,7 @@
 - [S3 Interface to Filecoin and IPFS](#s3-interface-to-filecoin-and-ipfs)
 - [Filecoin PubSub Observatory](#filecoin-pubsub-observatory)
 - [Better go-ipfs Observability](#better-go-ipfs-observability)
+- [Enable pubsub in go-ipfs](#enable-pubsub-in-go-ipfs)
 
 &nbsp;
 
@@ -150,10 +151,27 @@ If executed properly, node operators will be able to:
 
 - diagnose and resolve a wide range of issues
 - provide better feedback to the development team
-- rely less on support to diagnose those issues and reduce the burden on the IPFS development team
-- develop solutions to address those issues
+- rely less on support to diagnose issues and reduce the burden on devs
+- develop solutions to address issues
 
-Additionally, better observability also greatly helps during development, to verify correctness and to have actual numbers on which to base implementation decisions.
+Better observability also helps during development to verify correctness and to have actual numbers on which to base implementation decisions.
+
+Also see the [original idea proposal](https://github.com/ipfs/roadmap/issues/74).
+
+
+&nbsp;
+-----
+&nbsp;
+
+### Enable pubsub in go-ipfs
+
+#### Overview
+
+As of this writing [pubsub](https://docs.libp2p.io/concepts/publish-subscribe/) is considered experimental and is disabled in go-ipfs (due to increased resource usage on nodes that do not make use of it). In practice however many teams building products on IPFS use and depend on pubsub. This project would involve improving PubSub and reducing its overhead so that it can be enabled by default.
+
+#### Description
+
+For full details, see the [original proposal](https://github.com/protocol/web3-dev-team/blob/6eb46d6bae942af483ad41b23345b9df5f67254e/proposals/filecoin-pubsub-observatory.md) and [PR conversation](https://github.com/protocol/web3-dev-team/pull/35).
 
 
 &nbsp;
@@ -161,6 +179,7 @@ Additionally, better observability also greatly helps during development, to ver
 &nbsp;
 
 <!--
+
 ### Project Title
 
 #### Overview
