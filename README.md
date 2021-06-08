@@ -8,12 +8,21 @@ Grants for ecosystem grant funders, builders and researchers in the Filecoin and
 
 Join [#hackathon-support on the IPFS Discord](https://discord.gg/vZTcrFePpt) for questions about these events.
 
-Active & Upcoming
+Active
 
-- May 28 - May 30: [Web3 Weekend](https://web3.ethglobal.co/)
 - May 01 - Jun 30: [HackerLink](https://hackerlink.io/en)
 
+Upcoming
+
+- Jun 18 - Jul 09: [ETHGlobal Hack Money](https://defi.ethglobal.co/) - [register now!](https://hack.ethglobal.co/hackmoney2021/apply)
+- Jul 01 - Jul 31: [NFT Vision Hack](https://www.nftvisionhack.com/) - [register now!](https://www.nftvisionhack.com/registration)
+- Jul 2021: Browsers hackathon with [Devpost](https://devpost.com/)
+- Jul 2021: [Devfolio Season](https://devfolio.co/) 
+- Jul 2021 - Mar 2022: [Encode Club](https://www.encode.club/)
+
+
 2021 Completed
+- May 28 - May 30: [Web3 Weekend](https://web3.ethglobal.co/)
 - Apr 23 - Apr 25: [ASUC CivHacks](https://civhacks.com)
 - Apr 16 - May 14: [ETHGlobal Scaling Ethereum](https://scaling.ethglobal.co/)
 - Apr 16 - Apr 18: [Calhacks hello:world](https://calhacks.io/)
@@ -54,7 +63,9 @@ Take a look at our current [Contributor RFPs](https://github.com/protocol/grants
 
 ### Next Step Grants
 
-What happens after a hackathon? The **Next Step grants program** lets you take that next step with your project - develop it a bit further, get it ready for an accelator, incubator or investment. 
+You made a proof-of-concept, but what now? What happens after the hackathon ends? How to take that side project from a hustle to your main thing?
 
-The pilot of this program is open to teams who participated in the ETHGlobal NFTHacks event, ChainLink hackathon or any subsequent hackathon above. If that's you, [apply now](nextstep.md)!
+The **Next Step grants program** lets you take the next step with your project - develop it a bit further, get it ready for an accelerator, incubator or investment. If you're building with IPFS or Filecoin, receive $5k in Filecoin (FIL) to help you take your project to the next level.
+
+[Apply now!](https://github.com/ipfs/devgrants)
 
