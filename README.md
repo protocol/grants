@@ -10,15 +10,15 @@ Join [#hackathon-support on the IPFS Discord](https://discord.gg/vZTcrFePpt) for
 
 Active
 
-- May 01 - Jun 30: [HackerLink](https://hackerlink.io/en)
+- May 01 - Jul 18: [DoraHacks HackerLink Filecoin Grant](https://events.protocol.ai/2021/dorahacks/)
+- Jun 18 - Jul 09: [ETHGlobal Hack Money](https://defi.ethglobal.co/) - [register now!](https://hack.ethglobal.co/hackmoney2021/apply)
 
 Upcoming
 
-- Jun 18 - Jul 09: [ETHGlobal Hack Money](https://defi.ethglobal.co/) - [register now!](https://hack.ethglobal.co/hackmoney2021/apply)
 - Jul 01 - Jul 31: [NFT Vision Hack](https://www.nftvisionhack.com/) - [register now!](https://www.nftvisionhack.com/registration)
-- Jul 2021: Browsers hackathon with [Devpost](https://devpost.com/)
+- Jul 8 - Aug 18: Browsers 3000 summit and hackathon (details TBD)
 - Jul 2021: [Devfolio Season](https://devfolio.co/) 
-- Jul 2021 - Mar 2022: [Encode Club](https://www.encode.club/)
+- Jul 6 - Mar 2022: [Encode Club](https://www.encode.club/)
 
 
 2021 Completed
