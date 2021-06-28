@@ -6,7 +6,9 @@ Grants for ecosystem grant funders, builders and researchers in the Filecoin and
 
 ### Hackathons
 
-Join [#hackathon-support on the IPFS Discord](https://discord.gg/vZTcrFePpt) for questions about these events.
+Join [#hackathon-support on the IPFS Discord](https://discord.gg/vZTcrFePpt) for technical help or prize/participation questions.
+
+Join [#hackathonathon on the Filecoin Slack](https://filecoinproject.slack.com/archives/C01R62TEA2X) for sponsorship or event administration questions.
 
 Active
 
